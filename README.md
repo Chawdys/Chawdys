@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Chawdys AKA Sitthidet Chawdee
 - 👀 I’m interested in software deverlopment
 - 🌱 I’m currently learning computer engineering
-- 📫 How to reach me : 
-        Here's my contact info
+- 📫 Here's my contact info by 
           E-mail : chawdee.sitthidet@gmail.com or 
                    ch.sitthidet_st@tni.ac.th
 <!---
